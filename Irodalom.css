@@ -1,0 +1,46 @@
+body {
+    background-image: url(Esztergom.jpg);
+    background-repeat: no-repeat;   
+}
+h1 {
+    text-align: center;
+    color: bisque;
+}
+h2 {
+    text-decoration: underline;
+    color: bisque;
+}
+
+h3 {
+    color: bisque;
+}
+
+li {
+    color: bisque;
+}
+
+p {
+    color: bisque;
+    font-size: 25px;
+}
+
+#jobbra{
+    float: right;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    font-style: italic;
+    font-size: 0.7em;
+    color: #FF0000;
+    border: 1px solid #FF0000;
+    background-color: white;
+  }
+
+  #Balassi{
+    width: 880px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+  }
